@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the IT Unconference feature.
+ */
+
+include_once 'it_unconference.features.inc';
